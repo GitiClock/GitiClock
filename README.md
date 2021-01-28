@@ -9,3 +9,9 @@ You May Check Out Our [Documentation](https://timer.js.org/docs)
 
 ### Who Is The Owner Of Giticlock ?
 [@joeleeofficial](mailto:tojoeleeofficial@gmail.com) and [@wowlillily](https://github.com/wowlillily) is the owner of Giticlock
+
+### Credit
+
+- Domain [JSORG](https://github.com/js-org)
+- Contributors [joeleeofficial](https://github.com/joeleeofficial), [wowlillily](https://github.com/wowlillily)
+- Owner [joeleeofficial](https://github.com/joeleeofficial), [wowlillily](https://github.com/wowlillily)
