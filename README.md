@@ -1,4 +1,4 @@
-# GitiClock
+# GitiClock <img src="https://timer.js.org/gallery/giticlock.png" height="20px" width="20px" border-radius="15px">
 GitiClock, What Else ?
 
 ### What Is Giticlock ?
