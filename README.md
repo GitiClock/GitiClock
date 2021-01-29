@@ -1,5 +1,3 @@
-<img src="https://timer.js.org/gallery/giticlock.png" height="70px" width="70px" style="border-radius:15px">
-
 <h1 style="color:blue">Giticlock</h1>
 
 GitiClock, What Else ?
@@ -28,3 +26,12 @@ It was last time but now we turn it into private project which means you can't f
 - Domain [JSORG](https://github.com/js-org)
 - Contributors [joeleeofficial](https://github.com/joeleeofficial), [wowlillily](https://github.com/wowlillily)
 - Owner [joeleeofficial](https://github.com/joeleeofficial), [wowlillily](https://github.com/wowlillily)
+
+
+
+
+<img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
+<img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
+<img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
+<img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
+<img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
