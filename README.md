@@ -1,5 +1,3 @@
-<div><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px"><img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
-</div>
 <h1 style="color:blue">Giticlock</h1>
 
 GitiClock, What Else ?
@@ -19,6 +17,11 @@ Google Analytics is used to track website activity such as session duration, pag
 ### Is Giticlock Still An Open Source ?
 It was last time but now we turn it into private project which means you can't find the source code anymore.
 
+### Are We Accepting Contributions ?
+Not yet, but will soon.
+
+### What Should You Do When You Need Help With Giticlock ?
+Well, you may join our [discord support server](https://discord.gg/eFbFXZvYrw) and get support there.
 
 ### Who Is The Owner Of Giticlock ?
 [@joeleeofficial](mailto:tojoeleeofficial@gmail.com) and [@wowlillily](https://github.com/wowlillily) is the owner of Giticlock
