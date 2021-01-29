@@ -1,5 +1,5 @@
-<img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
-# GitiClock 
+# GitiClock <img src="https://timer.js.org/gallery/giticlock.png" height="40px" width="40px" style="border-radius:15px">
+
 GitiClock, What Else ?
 
 ### What Is Giticlock ?
