@@ -1,5 +1,6 @@
-<h1 style="color:blue"><img src="https://timer.js.org/gallery/giticlock.png" height="30px" width="30px" style="border-radius:15px">
-Giticlock</h1>
+<img src="https://timer.js.org/gallery/giticlock.png" height="70px" width="70px" style="border-radius:15px">
+
+<h1 style="color:blue">Giticlock</h1>
 
 GitiClock, What Else ?
 
